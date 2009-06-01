@@ -1,2 +1,0 @@
-- words.txt uses DOS line endings
-- words.txt contains no empty line
